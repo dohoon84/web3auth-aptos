@@ -1,4 +1,4 @@
-# Web3Auth Aptos 이벤트 MVP
+# Web3Auth Aptos
 
 이 프로젝트는 Google OAuth를 통한 간편한 로그인과 Aptos 블록체인 지갑의 자동 생성을 구현한 웹 애플리케이션입니다.
 
@@ -21,8 +21,8 @@
 
 1. 저장소 클론
    ```bash
-   git clone https://github.com/yourusername/web3auth-mvp.git
-   cd web3auth-mvp
+   git clone https://github.com/yourusername/web3auth-aptos.git
+   cd web3auth-aptos
    ```
 
 2. 의존성 설치
